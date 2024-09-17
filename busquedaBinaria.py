@@ -26,7 +26,7 @@ def busqueda(data,valor):
 
 def  main():
     datos = [-8,4,5,9,12,18,25,40,60,100,220]
-    print(busqueda(datos,300))
+    print(busqueda(datos,-8))
 
 if __name__ == '__main__':
     main()
