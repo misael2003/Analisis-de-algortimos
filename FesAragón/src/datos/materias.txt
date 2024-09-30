@@ -1,0 +1,30 @@
+Algebra
+Calculo Diferencial
+Geometría Analítica
+Introducción a la Ingeniería
+Computadoras y Programación
+Algebra Lineal
+Calculo Vectorial
+Comunicación
+Emprendimiento 1
+Programación Orientado a Objetos
+Taller de la Creatividad y la Inovación
+Ecuaciones Diferenciales
+Electricidad y Magnetismo
+Emprendimiento 2
+Estructuras de datos
+Métodos Númericos
+Base de datos 1
+Dispositivos Electrónicos
+Emprendimiento 3
+Matemáticas Discretas
+Probabilidad y Estadística
+Administración de Proyectos
+Diseño Lógico
+Diseño y Analísis de Algoritmos
+Lenguajes Formales y Automatas
+Programación Web 1
+Base de datos 2
+Programación web 2
+Compiladores
+Redes

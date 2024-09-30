@@ -1,6 +1,9 @@
 # Aplicamos el algoritmo  de busqueda binaria para encontrar un elemento de una lista
+import quickSort
 
 def busqueda(data,valor):
+    # ordenamos la lista si esta desordenada
+    data = quickSort.quickSort(data)    
     if len(data) > 2:
         central = len(data) // 2 #T(n) = 1
         if valor == data[central]: #T(n) = 1
@@ -25,8 +28,8 @@ def busqueda(data,valor):
 # O(?) => log n + 4 => O(n) = log n => Es la complejidad del algoritmo
 
 def  main():
-    datos = [-8,4,5,9,12,18,25,40,60,100,220]
-    print(busqueda(datos,-8))
+    datos = [10,1,12,5,8,4,3,11,2,6,80]
+    print(busqueda(datos,7))
 
 if __name__ == '__main__':
     main()
